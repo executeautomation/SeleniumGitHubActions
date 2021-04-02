@@ -1,7 +1,7 @@
 # SeleniumWithCucumber
 This is an sample project to demonstrate how to work with Selenium and cucumber for Java
 
-[![Java CI with Maven](https://github.com/executeautomation/SeleniumWithCucucumber/actions/workflows/maven_new.yml/badge.svg?branch=master)](https://github.com/executeautomation/SeleniumWithCucucumber/actions/workflows/maven_new.yml)
+[![Java CI with Maven](https://github.com/executeautomation/SeleniumGitHubActions/actions/workflows/maven.yml/badge.svg)](https://github.com/executeautomation/SeleniumGitHubActions/actions/workflows/maven.yml)
 
 ~~~~
 # Important
